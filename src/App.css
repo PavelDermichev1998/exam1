@@ -1,0 +1,49 @@
+.App {
+    height: 300px;
+    width: 300px;
+}
+
+.Counter {
+    background-color: darkcyan;
+    border: 5px solid darkblue
+}
+
+.Tablo {
+    background-color: darkgoldenrod;
+    color: darkturquoise;
+    height: 90px;
+    width: 150px;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 25%;
+    margin-left: 25%;
+    border: 2px solid darkturquoise;
+}
+
+.error {
+    background-color: darkgoldenrod;
+    color: red;
+    height: 90px;
+    width: 150px;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 25%;
+    margin-left: 25%;
+    border: 2px solid darkturquoise;
+
+}
+
+.Buttons {
+    background-color: darkgrey;
+    height: 90px;
+    width: 150px;
+    margin-bottom: 25%;
+    margin-left: 25%;
+    border: 2px solid darkturquoise;
+    border-radius: 10%;
+}
+.Buttons button {
+    font-size: 25px;
+    margin-left: 11px;
+    border-radius: 10%;
+}
